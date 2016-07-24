@@ -7,7 +7,7 @@
 	    "./src/ethash-src/src/libethash/internal.c",
 		"./src/ethash-src/src/libethash/sha3.c"
     ],
-    "cflags_cc": [
+    "cflags_c": [
 		"-std=gnu99",
     	"-Wall",
 		"-Wno-maybe-uninitialized",
